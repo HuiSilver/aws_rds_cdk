@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@aws-cdk/aws-rds": "^1.204.0"
+  }
+}
